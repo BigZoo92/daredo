@@ -1,0 +1,11 @@
+{
+  "appId": "daredo.app",
+  "appName": "quentinntm",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
